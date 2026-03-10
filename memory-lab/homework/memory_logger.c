@@ -15,7 +15,7 @@
 int main(void)
 {
     // TODO: Declare an array of NUM_WORDS char* pointers
-    /* ??? */
+    /* ??? *////
 
     // -------------------------------------------------------
     // STEP 1 & 2: Read words and store copies in memory
