@@ -33,7 +33,7 @@ int main(void)
             printf("Memory error!\n");
             return 1;
         }
-
+//testest
         // TODO: Copy input into words[i]
         strcpy(/* ??? */, /* ??? */);
 
